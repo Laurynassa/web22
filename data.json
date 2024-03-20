@@ -1,6 +1,6 @@
 {
   "kayaks": {
-    {
+    "1":{
       "id": 1,
       "name": "Ocean Kayak Malibu Two XL",
       "type": "tandem",
@@ -12,7 +12,7 @@
         "https://www.theirishexperience.com/wp-content/uploads/2022/10/20221022_135005.jpg"
       ]
     },
-    {
+    "2":{
       "id": 2,
       "name": "Perception Pescador Pro 12.0",
       "type": "single",
@@ -24,7 +24,7 @@
         "https://progressivesports.com/media/catalog/product/cache/2803ee1016b1a99bc889ce81b50f01e0/p/e/pescadorpro12tan_1_1.webp"
       ]
     },
-    {
+    "3":{
       "id": 3,
       "name": "Advanced Elements AdvancedFrame Convertible",
       "type": "tandem",
